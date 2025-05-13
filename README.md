@@ -1,5 +1,7 @@
 # SHAPE YOUR DESIGN
 
+___
+
 <p align="center">
 <img alt-text="Banner graphic from the MICA Grassroots DesignFest" src="MICA-banner.png">
 
@@ -21,4 +23,6 @@
 **Reference Links**
 - https://www.grassrootsdesignfest.org/
 
-## 
+---
+
+## Bring Your Child to Work Day
