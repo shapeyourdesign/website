@@ -1,4 +1,5 @@
 # SHAPE YOUR DESIGN
+[About](https://github.com/shapeyourdesign/website/aboutme.md) • [Social Profile](https://twitter.com/shapeyourdesign) • [Shout-out](mailto:nickolas.brock@gmail.com)
 ___
 
 <p align="center">
