@@ -9,6 +9,7 @@
 
 ## MICA Grassroots Designfest, Mikeys Miracle Foundation
 
+#### The design prompt...
 
 **Images from event**
 
@@ -19,3 +20,5 @@
 
 **Reference Links**
 - https://www.grassrootsdesignfest.org/
+
+## 
