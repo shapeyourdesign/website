@@ -1,7 +1,7 @@
 # SHAPE YOUR DESIGN
 
 <p align="center">
-<img width="460" height="300" src="/assets/images/MICA-banner.png">
+<img width="460" height="300" src="MICA-banner.png">
 </p>
 ## MICA Grassroots Designfest, Mikeys Miracle Foundation
 
