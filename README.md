@@ -1,8 +1,12 @@
 # SHAPE YOUR DESIGN
 
 <p align="center">
-<img src="MICA-banner.png">
+<img alt-text="Banner graphic from the MICA Grassroots DesignFest" src="MICA-banner.png">
+
 </p>
+
+<sup><sub>This is a banner to showcase the all text for this image</sub></sup>
+
 ## MICA Grassroots Designfest, Mikeys Miracle Foundation
 
 
