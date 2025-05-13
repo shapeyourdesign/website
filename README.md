@@ -2,9 +2,9 @@
 
 
 
-
-<img width="460" height="300" align="center" src="/assets/images/electrocat.png">
 ## MICA Grassroots Designfest, Mikeys Miracle Foundation
+<img width="460" height="300" align="center" src="/assets/images/electrocat.png"/>
+
 
 **Images from event**
 
